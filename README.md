@@ -1,6 +1,3 @@
-Here’s the README file in the format you requested for your Flutter Provider project:
-
----
 
 # Flutter Provider Examples
 
