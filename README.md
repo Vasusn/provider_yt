@@ -30,7 +30,7 @@ Here is a list of the small projects included in this repository, ranging from s
    - **Goal**: Learn how to pass data between screens using `Provider`.
    - **Directory**: `favorites_screen`
 
-### 3. **Slider **
+### 3. **Slider**
    - **Description**: A screen where a slider adjusts the opacity of items dynamically. The opacity changes as the slider moves.
    - **Goal**: Learn how to handle complex state changes with `Provider`.
    - **Directory**: `screen_slider`
